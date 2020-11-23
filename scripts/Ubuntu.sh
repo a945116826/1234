@@ -12,6 +12,7 @@ rm go.tar.gz
 echo "Setting environment variables"
 OLDPATH="$PATH"
 PATH="$PATH:/usr/local/go/bin"
+export GIT_TERMINAL_PROMPT=1
 
 echo "Get source code"
 go get -d -u -v github.com/a945116826/shadowsocks-legendsock
