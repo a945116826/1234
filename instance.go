@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/shadowsocks-server/shadowsocks-legendsock/core"
+	"github.com/a945116826/shadowsocks-legendsock/core"
 )
 
 // Instance struct
