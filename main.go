@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/shadowsocks-server/shadowsocks-legendsock/core"
+	"github.com/a945116826/shadowsocks-legendsock/core"
 )
 
 var (
